@@ -1,8 +1,9 @@
 ### Hi there, I'm Wafa!  👋 
 ## 📌 About Me  
-👩‍🎓 I'm **19 years old**, currently studying **Information Systems & Network Security**.  
-💡 Passionate about **Web Development** and **Tech Innovation**.  
-🎯 I love building **full-stack platforms** and always eager to learn new skills.
+👩‍🎓 I'm 20 years old, currently pursuing a Bachelor's degree in Data Science and Intelligent Systems.
+💡 Passionate about Web Development, Data Science, and Big Data Technologies.
+📊 I have hands-on knowledge in Data Mining, Data Warehousing, Python for Data Science, and Big Data processing. 
+🎯 I love building full-stack platforms and applying data-driven solutions. I enjoy manipulating, analyzing, and visualizing data to extract meaningful insights. Always eager to learn new skills and explore innovative technologies.
 ### 🛠️ Skills  
 ### 🖥️ Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
