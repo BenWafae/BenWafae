@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages 🌐 :**
+**Languages  :**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,14 +31,16 @@
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-795548?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Big Data ⚙️ :**
+**Big Data  :**
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge)
+![HDFS](https://img.shields.io/badge/HDFS-017CEE?style=for-the-badge)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![YARN](https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6B35?style=for-the-badge)
 
-**Web Development 🌐 :**
+**Web Development  :**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +48,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Databases 🗄️ :**
+**Databases  :**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -60,7 +62,7 @@
 
 ---
 
-##  Current Project
+## 🚀 Current Project
 
 **[ SRM Intelligent Billing System](https://github.com/BenWafae/srm-intelligent-billing-system)**
 > AI-powered system for automatic invoice analysis and intelligent customer assistance using LLMs — Python
@@ -70,8 +72,13 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenWafae&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWafae&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BenWafae&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6eb4&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117" width="47%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWafae&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6eb4&text_color=ffffff&bg_color=0d1117" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BenWafae&theme=tokyonight&hide_border=true&ring=ff6eb4&fire=ff6eb4&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=ffffff&background=0d1117" width="70%"/>
 </p>
 
 ---
