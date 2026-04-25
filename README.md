@@ -72,13 +72,12 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenWafae&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6eb4&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWafae&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6eb4&text_color=ffffff&bg_color=0d1117" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BenWafae&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6eb4&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenWafae&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6eb4&text_color=ffffff&bg_color=0d1117" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BenWafae&theme=tokyonight&hide_border=true&ring=ff6eb4&fire=ff6eb4&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=ffffff&background=0d1117" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=BenWafae&theme=tokyonight&hide_border=true&ring=ff6eb4&fire=ff6eb4&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=ffffff&background=0d1117" width="60%"/>
 </p>
 
 ---
