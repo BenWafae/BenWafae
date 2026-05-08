@@ -3,7 +3,7 @@
 <p align="center">
   Bachelor's student in <strong>Data Science & Intelligent Systems</strong> &nbsp;|&nbsp; Morocco <br/>
   Passionate about <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>Big Data</strong> & <strong>Full-Stack Development</strong><br/>
-  Building intelligent systems — from data pipelines to LLM-powered applications.<br/>
+  Building intelligent systems, from data pipelines to LLM-powered applications.<br/>
   I love turning raw data into meaningful insights and smart solutions.
 </p>
 
@@ -11,9 +11,9 @@
 
 ## Current Project
 
-**SRM Intelligent Billing System** &nbsp;·&nbsp; *repo private — in progress*
+**SRM Intelligent Billing System** &nbsp;·&nbsp; *in progress*
 
-A hybrid AI architecture built for a real company (SRM Souss-Massa) that routes natural language billing queries through a 4-level decision pipeline — Python rules, LLM intent classification, and a secured Text-to-SQL fallback — replacing classic RAG to eliminate hallucinations on structured data.
+A hybrid AI architecture built for a real company (SRM Souss-Massa) that routes natural language billing queries through a 4-level decision pipeline: Python rules, LLM intent classification, and a secured Text-to-SQL fallback, replacing classic RAG to eliminate hallucinations on structured data.
 
 ---
 
