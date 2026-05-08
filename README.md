@@ -7,64 +7,94 @@
   I love turning raw data into meaningful insights and smart solutions.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BenWafae&color=ff6eb4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/BenWafae?style=flat-square&color=38bdf8&label=Followers" alt="Followers"/>
+</p>
+
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Featured Project
 
-### **Languages :**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<table>
+<tr>
+<td width="100%">
 
-### **Data Science & AI :**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge) 
-![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge) 
-![Data Mining](https://img.shields.io/badge/Data%20Mining-4CAF50?style=for-the-badge) 
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-795548?style=for-the-badge) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+### 🧾 [SRM Intelligent Billing System](https://github.com/BenWafae/srm-intelligent-billing-system)
+> AI-powered system for **automatic invoice analysis** and **intelligent customer assistance** using LLMs — Python
 
-### **Big Data :**  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![HDFS](https://img.shields.io/badge/HDFS-017CEE?style=for-the-badge) 
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) 
-![YARN](https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=apachehadoop&logoColor=white) 
-![MapReduce](https://img.shields.io/badge/MapReduce-FF6B35?style=for-the-badge)  
+**Key Features:**
+- 🤖 LLM-powered invoice understanding & extraction
+- 💬 Conversational AI assistant for customer billing queries
+- 🔍 Automated data parsing and anomaly detection
+- 🐍 Built with Python · LLMs · NLP
 
-### **Web Development :**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+</td>
+</tr>
+</table>
 
-### **Databases :**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+---
 
-### **Tools :**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+## 🧠 Projects & Work
+
+| Project | Description | Tech | Stars |
+|--------|-------------|------|-------|
+| [📊 Women's E-Commerce Prediction](https://github.com/BenWafae/womens-ecommerce-product-success) | Binary classification to predict product success from clothing reviews | Python · Scikit-learn · NLP | ⭐ 3 |
+| [🧠 Mental Health Prediction](https://github.com/BenWafae/mental-health-prediction) | CRISP-DM pipeline — EDA, Feature Engineering, ML classification | Logistic Regression · Decision Tree · Random Forest | ⭐ 1 |
+| [💤 Sleep Health Statistics](https://github.com/BenWafae/sleep-health-statistics) | Statistical analysis and data visualization of sleep health dataset | Pandas · Matplotlib · Seaborn | ⭐ 1 |
+| [🌐 Educational Platform BTS](https://github.com/BenWafae/plateforme-bts) | Full-stack platform with multi-auth, AI modules & real deployment | Laravel · Tailwind · MySQL · HuggingFace | ⭐ 3 |
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Data Science & AI**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-4CAF50?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-795548?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### **Big Data**
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-017CEE?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![YARN](https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6B35?style=for-the-badge)
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Current Project  
-
-**[ SRM Intelligent Billing System](https://github.com/BenWafae/srm-intelligent-billing-system)**  
-> AI-powered system for automatic invoice analysis and intelligent customer assistance using LLMs — Python  
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BenWafae&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6eb4&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117" width="45%"/>
@@ -77,7 +107,7 @@
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:benzhirwafa@gmail.com">
@@ -91,4 +121,8 @@
   <a href="https://github.com/BenWafae">
     <img src="https://img.shields.io/badge/GitHub-BenWafae-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <i>💡 Open to internships, collaborations & data-driven challenges!</i>
 </p>
